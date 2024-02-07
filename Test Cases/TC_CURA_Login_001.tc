@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing the login Process</description>
+   <name>TC_CURA_Login_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0822c698-242d-47ff-ae1e-47aacfd0c305</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>cf556edb-089c-400f-b3cd-b4088b3cfc9d</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TestData/CURA_LoginCredentials</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>cf556edb-089c-400f-b3cd-b4088b3cfc9d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>user</value>
+      <variableId>5c11b328-d0cf-4fd3-92f2-057c944c53e6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>cf556edb-089c-400f-b3cd-b4088b3cfc9d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>0dcd9ce7-8552-44fe-b841-48b5648ea8f2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5c11b328-d0cf-4fd3-92f2-057c944c53e6</id>
+      <masked>false</masked>
+      <name>User</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0dcd9ce7-8552-44fe-b841-48b5648ea8f2</id>
+      <masked>true</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

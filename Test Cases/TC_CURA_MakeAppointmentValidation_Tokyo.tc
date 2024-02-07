@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the Validity of Appointment Process for Tokyo city</description>
+   <name>TC_CURA_MakeAppointmentValidation_Tokyo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df77647a-7418-4b7e-92e7-75b7b0bc1f17</testCaseGuid>
+</TestCaseEntity>

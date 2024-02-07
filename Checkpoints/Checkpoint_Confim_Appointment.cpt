@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint_Confim_Appointment</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/TestData/CURA_LoginCredentials</source-url>
+   </source-info>
+   <taken-date>2024-02-06T11:00:07.582+05:30</taken-date>
+   <column-names>
+      <column-name>user</column-name>
+      <column-name>password</column-name>
+      <column-name>Confim?</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "John Doe",
+      "checked": false
+    },
+    {
+      "value": "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM",
+      "checked": false
+    },
+    {
+      "value": "Appointment Sucess",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
